@@ -1,5 +1,5 @@
 {
-  "name": "git-json-merge",
+  "name": "@bkad/git-json-merge",
   "version": "0.4.4",
   "description": "a git merge driver for json files",
   "scripts": {
@@ -9,15 +9,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/jonatanpedersen/git-json-merge.git"
+    "url": "git+https://github.com/bkad/git-json-merge.git"
   },
   "author": "",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/jonatanpedersen/git-json-merge/issues"
+    "url": "https://github.com/bkad/git-json-merge/issues"
   },
   "main": "lib/git-json-merge.js",
-  "homepage": "https://github.com/jonatanpedersen/git-json-merge#readme",
+  "homepage": "https://github.com/bkad/git-json-merge#readme",
   "bin": {
     "git-json-merge": "bin/git-json-merge"
   },
